@@ -1,6 +1,6 @@
 # Audiofiles directories
 ___
-dataset: https://paperswithcode.com/dataset/fsdkaggle2018
+dataset: https://zenodo.org/record/2552860#.XFD05fwo-V4
 ## Dirs
 
 * FSDKaggle2018.audio_test 
